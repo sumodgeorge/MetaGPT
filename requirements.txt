@@ -28,3 +28,5 @@ fire
 regex
 pydantic
 pybind11
+minio>=7.2.11 # not directly required, pinned by Snyk to avoid a vulnerability
+unstructured>=0.14.3 # not directly required, pinned by Snyk to avoid a vulnerability
